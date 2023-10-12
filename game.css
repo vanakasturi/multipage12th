@@ -1,0 +1,33 @@
+body{
+    background: rgba(74, 206, 176, 0.76);
+}
+.login_div1, .login_div2 {
+    background: white;
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+    width: 400px;
+}
+img{
+    width: 100px;
+    height: 100px;
+    border: 2px solid red;
+    
+}
+#player1_name , #player2_name {
+    display: inline-block;
+    margin-left: 20px;
+}
+#word{
+    width: 60%;
+    
+}
+h1{
+            font-family: sans-serif;
+            font-size: 40px;
+            color: brown;
+    border-radius: 8px;
+            border: 1px solid white;
+            background-color: bisque;
+            width: 650px;
+        }
